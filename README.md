@@ -4,8 +4,8 @@ This is my first try to make a web game. It has a simple and smooth UI(user inte
 
 ## Screenshot
 
-![first look](./screenshots/screenshot1.png)
-![After adding task](./screenshots/screenshot2.png)
+![first look](./screenshots/screenshot1.PNG)
+![Winner look](./screenshots/screenshot2.PNG)
 
 ## [Live Demo](https://AkshayManiar.github.io/myTicTacToe/)
 
